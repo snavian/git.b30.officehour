@@ -6,4 +6,6 @@ public class TestCase7 {
     // testing invalid case
 
     // i did it
+
+    // login method
 }
